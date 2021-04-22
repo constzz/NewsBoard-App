@@ -2,8 +2,9 @@
 Mobile app that gets news from a Real-time database.  *Technologies* used: Retrofit, Firebase, Refresh, Recycler layouts and others
 
 *Screenshots:*
-<img src="https://user-images.githubusercontent.com/77053754/115776613-fbe1f200-a3bc-11eb-8240-42ba2bee200b.png" width="100" height="300">
-![Screenshot_20210422-224629](https://user-images.githubusercontent.com/77053754/115776617-fe444c00-a3bc-11eb-89b7-d77cd2fcd984.png)
+
+<img src="https://user-images.githubusercontent.com/77053754/115776613-fbe1f200-a3bc-11eb-8240-42ba2bee200b.png" width="50%" height="400">
+<img src="https://user-images.githubusercontent.com/77053754/115776617-fe444c00-a3bc-11eb-89b7-d77cd2fcd984.png" width="50%" height="400">
 
 [App video](https://photos.app.goo.gl/YqsE1fxToE8FhirW8)
 
