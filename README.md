@@ -1,6 +1,10 @@
 # NewsBoard-App
 Mobile app that gets news from a Real-time database.  *Technologies* used: Retrofit, Firebase, Refresh, Recycler layouts and others
 
+*Screenshots:*
+![Screenshot_20210422-224626](https://user-images.githubusercontent.com/77053754/115776613-fbe1f200-a3bc-11eb-8240-42ba2bee200b.png)
+![Screenshot_20210422-224629](https://user-images.githubusercontent.com/77053754/115776617-fe444c00-a3bc-11eb-89b7-d77cd2fcd984.png)
+
 [App video](https://photos.app.goo.gl/YqsE1fxToE8FhirW8)
 
 *Database* looks like:
