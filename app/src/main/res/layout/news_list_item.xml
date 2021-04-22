@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/article_container"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:paddingVertical="4dp"
+    android:weightSum="4">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="2">
+        <TextView
+            style="@style/article_title"
+            android:id="@+id/article_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+        <TextView
+            style="@style/article_title"
+            android:layout_marginEnd="28dp"
+            android:id="@+id/article_title"
+            android:layout_marginTop="6dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="2">
+
+        <ImageView
+            android:padding="4dp"
+            android:id="@+id/article_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:foregroundGravity="center"
+            android:scaleType="fitXY"
+            tools:srcCompat="@tools:sample/backgrounds/scenic" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/rounded_fg"/>
+    </FrameLayout>
+
+</LinearLayout>

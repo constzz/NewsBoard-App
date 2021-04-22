@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113452752346",
+    "firebase_url": "https://newsboardapp-b2daf-default-rtdb.firebaseio.com",
+    "project_id": "newsboardapp-b2daf",
+    "storage_bucket": "newsboardapp-b2daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113452752346:android:4289d21b1e7fe7045a34e3",
+        "android_client_info": {
+          "package_name": "com.example.newsboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113452752346-8qolr9h0jaot4auf8ap2ub91i26v6ntm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPFrHepN6Vd3H2RuCR3BoTM0t05FovB4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113452752346-8qolr9h0jaot4auf8ap2ub91i26v6ntm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
